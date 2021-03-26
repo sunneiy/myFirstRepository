@@ -1,2 +1,2 @@
 # myFirstRepository
-<img walth="" height="" src="./png/강아지.png"></img>
+<img walth="" height="" src="./png/4주차과제.png"></img>
